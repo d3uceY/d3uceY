@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
-<h3 align="center">This is my big Git.</h3>
+<h3 align="center">Writing code from the basement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3ucey&label=Profile%20views&color=0e75b6&style=flat" alt="d3ucey" /> </p>
 
