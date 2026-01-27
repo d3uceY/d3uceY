@@ -1,16 +1,19 @@
 <div align="center">
   
 # Hi 👋, I'm Jesse
-
-### I can close VIM
-
-<a href="https://twitter.com/d3uc3y" target="_blank">
+<!-- <a href="https://twitter.com/d3uc3y" target="_blank">
   <img src="https://img.shields.io/twitter/follow/d3uc3y?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-</a>
-
+</a> -->
+</div>
+<div align="center">
+accurate depiction of me btw:
+</div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8568b8cc-0b66-4f6a-b2d2-ddfdc14b6745" />
 </div>
 
 ⚡ **Fun fact:** *It takes (n + 1) wipes of toilet paper to know it's clean.*
+
 
 ---
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,24 +34,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=d3ucey&theme=darkhub&no-frame=true&margin-w=15&column=7)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/d3uc3y" target="_blank">
+  <!-- <a href="https://twitter.com/d3uc3y" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jesse onyekwelu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -64,9 +56,3 @@
 </p>
 
 ---
-
-<div align="center">
-  
-### 💼 Open to collaborate on exciting projects!
-
-</div>
