@@ -1,7 +1,7 @@
 
 
 
-A collection of projects I built.
+A collection of some projects I built (my favorites)
 
 - **[Avnac Studio](https://github.com/striker561/Avnac-Studio)** — Lightweight desktop design tool. 1,000+ downloads.
 - **[Clipcat](https://github.com/d3uceY/Clipcat)** — Cross-platform clipboard manager with paper-like design. Featured on **[Awesome Wails](https://github.com/wailsapp/awesome-wails)**.
