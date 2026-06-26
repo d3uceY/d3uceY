@@ -10,5 +10,10 @@ A collection of some projects I built (my favorites)
 - **[Cokpyt](https://github.com/d3uceY/Cokpyt)** — The GUI you always wished `pip` shipped with. (pip gui wrapper)
 - **[OpenSus](https://github.com/d3uceY/OpenSus)** — Paste any GitHub URL to view repository activity in one place.
 
+## Embedded Systems & IoT
+
+* **[Water Pump Regulator IoT](https://github.com/d3uceY/WATER_PUMP_REGULATOR-IOT-)** — ESP32-based smart water pump controller with automatic tank level monitoring, relay control, and MQTT connectivity for remote monitoring and automation.
+
+
 
 
