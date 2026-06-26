@@ -4,7 +4,7 @@
 A collection of projects I built.
 
 - **[Avnac Studio](https://github.com/striker561/Avnac-Studio)** — Lightweight desktop design tool. 1,000+ downloads.
-- **[Clipcat](https://github.com/d3uceY/Clipcat)** — Cross-platform clipboard manager built with Wails. Featured on **[Awesome Wails](https://github.com/wailsapp/awesome-wails)**.
+- **[Clipcat](https://github.com/d3uceY/Clipcat)** — Cross-platform clipboard manager with paper-like design. Featured on **[Awesome Wails](https://github.com/wailsapp/awesome-wails)**.
 - **[Ya-GUI](https://github.com/d3uceY/Ya-GUI)** — GUI for the Ya CLI command alias tool. Featured on **[Awesome Wails](https://github.com/wailsapp/awesome-wails)**.
 - **[Ya-CLI](https://github.com/d3uceY/Ya-CLI)** — Command shortcut and alias manager.
 - **[Cokpyt](https://github.com/d3uceY/Cokpyt)** — The GUI you always wished `pip` shipped with.
