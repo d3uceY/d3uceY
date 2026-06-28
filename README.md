@@ -12,7 +12,7 @@ A collection of some projects I built (my favorites)
 
 ## Embedded Systems & IoT
 
-* **[Water Pump Regulator IoT](https://github.com/d3uceY/WATER_PUMP_REGULATOR-IOT-)** — ESP32-based smart water pump controller with automatic tank level monitoring, relay control, and MQTT connectivity for remote monitoring and automation. (chill, it's ongoing)
+* **[Water Pump Regulator IoT](https://github.com/d3uceY/WATER_PUMP_REGULATOR-IOT-)** (chill, it's ongoing) — ESP32-based smart water pump controller with automatic tank level monitoring, relay control, and MQTT connectivity for remote monitoring and automation. 
 
 
 
