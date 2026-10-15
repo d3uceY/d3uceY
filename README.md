@@ -1,4 +1,4 @@
-A collection of some projects I built (my favorites)
+I make tools that fix my own problems
 
 ## Apps
 
