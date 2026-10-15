@@ -7,7 +7,8 @@ A collection of some projects I built (my favorites)
 - [Clipcat](https://getclipcat.com/) — Cross-platform clipboard manager with paper-like design. Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) — GUI for the Ya CLI command alias tool. Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Cokpyt](https://github.com/d3uceY/Cokpyt) — The GUI you always wished `pip` shipped with. (pip GUI wrapper). Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
-- [Aka-nasu](https://github.com/d3uceY/aka-nasu) — Aka Nasu (赤茄子) is a pomodoro focus timer for the desktop. Aka nasu is the Japanese word for red eggplant, another name for a tomato, and the tagline トマトの時計 translates to "the tomato clock."
+- [Aka-nasu](https://github.com/d3uceY/aka-nasu) — interactable 3d pomodoro focus timer for the desktop.
+- [Debris](https://github.com/d3uceY/aka-nasu) — Windows debloat tool written in Rust.
 
 ## Command-line tools
 
