@@ -18,4 +18,5 @@ I create tools that solve my own problems. If it solves yours, that's nice too.
 ## Other
 
 - [OpenSus](https://github.com/d3uceY/OpenSus) — Paste any GitHub URL to view repository activity in one place.
+- [WPFind](https://github.com/d3uceY/WPFind) — POV: it's 2026 and the WordPress Admin panel does not have a search bar. This fixes that.
 - [Water Pump Regulator IoT](https://github.com/d3uceY/WATER_PUMP_REGULATOR-IOT-) (chill, it's ongoing) — ESP32-based smart water pump controller with automatic tank level monitoring, relay control, and MQTT connectivity for remote monitoring and automation.
