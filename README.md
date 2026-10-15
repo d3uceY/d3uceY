@@ -1,4 +1,4 @@
-I make tools that solve my own problems. If it solves yours, that's nice too.
+I create tools that solve my own problems. If it solves yours, that's nice too.
 
 ## Apps
 
