@@ -6,7 +6,7 @@ I create tools that solve my own problems. If it solves yours, that's nice too.
 - [Vectile](https://github.com/d3uceY/vectile#vectile-your-private-library) — Private, fully local knowledge library with hybrid semantic and full-text search. Everything stays on your machine.
 - [Clipcat](https://getclipcat.com/) — Cross-platform clipboard manager with paper-like design. Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) — GUI for the Ya CLI command alias tool. Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
-- [Cokpyt](https://github.com/d3uceY/Cokpyt) — The GUI you always wished `pip` shipped with. (pip GUI wrapper). Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
+- [Cokpyt](https://d3ucey.github.io/Cokpyt/) — The GUI you always wished `pip` shipped with. (pip GUI wrapper). Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Aka-nasu](https://github.com/d3uceY/aka-nasu) — interactable 3d pomodoro focus timer for the desktop.
 - [Debris](https://github.com/d3uceY/debris) — Windows debloat tool written in Rust.
 
