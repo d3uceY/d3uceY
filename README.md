@@ -8,7 +8,7 @@ I create tools that solve my own problems. If it solves yours, that's nice too.
 - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) — GUI for the Ya CLI command alias tool. Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Cokpyt](https://github.com/d3uceY/Cokpyt) — The GUI you always wished `pip` shipped with. (pip GUI wrapper). Featured on [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Aka-nasu](https://github.com/d3uceY/aka-nasu) — interactable 3d pomodoro focus timer for the desktop.
-- [Debris](https://github.com/d3uceY/aka-nasu) — Windows debloat tool written in Rust.
+- [Debris](https://github.com/d3uceY/debris) — Windows debloat tool written in Rust.
 
 ## Command-line tools
 
