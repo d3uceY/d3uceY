@@ -9,6 +9,7 @@ I create tools that solve my own problems. If it solves yours, that's nice too.
 - [Cokpyt](https://d3ucey.github.io/Cokpyt/) — The GUI you always wished `pip` shipped with. (pip GUI wrapper). Featured in [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Aka-nasu](https://github.com/d3uceY/aka-nasu) — interactable 3d pomodoro focus timer for the desktop.
 - [Debris](https://github.com/d3uceY/debris) — Windows debloat tool written in Rust.
+- [NooBoo](https://github.com/d3uceY/NooBoo) — Sims 4 mod manager i built for my sis.
 
 ## Command-line tools
 
