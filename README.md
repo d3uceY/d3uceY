@@ -4,6 +4,7 @@ I create tools that solve my own problems. If it solves yours, that's nice too.
 
 - [Avnac Studio](https://avnac.design/studio) — Lightweight desktop design tool. 1,000+ downloads. (Canva Alternative)
 - [Vectile](https://github.com/d3uceY/vectile#vectile-your-private-library) — Private, fully local knowledge library with hybrid semantic and full-text search. Everything stays on your machine.
+- [SpriteWare](https://github.com/d3uceY/SpriteWare) — runs an MCP server that lets an agent open a sprite, draw pixel art, read the result back and export it in most image formats including sprite sheets for game engines.
 - [Clipcat](https://getclipcat.com/) — Cross-platform clipboard manager with paper-like design. Featured in [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) — GUI for the Ya CLI command alias tool. Featured in [Awesome Wails](https://github.com/wailsapp/awesome-wails).
 - [Cokpyt](https://d3ucey.github.io/Cokpyt/) — The GUI you always wished `pip` shipped with. (pip GUI wrapper). Featured in [Awesome Wails](https://github.com/wailsapp/awesome-wails).
