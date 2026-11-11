@@ -11,9 +11,10 @@ I create tools that solve my own problems. If it solves yours, that's nice too.
 - [Aka-nasu](https://github.com/d3uceY/aka-nasu) — interactable 3d pomodoro focus timer for the desktop.
 - [Debris](https://github.com/d3uceY/debris) — Windows debloat tool written in Rust.
 - [NooBoo](https://github.com/d3uceY/NooBoo) — Sims 4 mod manager i built for my sis.
+- [StdScout](https://github.com/d3uceY/stdscout) — if it's on path, I'll find it.
 
 ## Command-line tools
-
+- [Piper](https://github.com/d3uceY/Piper) — Elevator music while you wait for running cli commands
 - [Ya-CLI](https://github.com/d3uceY/Ya-CLI) — Command shortcut and alias manager.
 - [Retna](https://github.com/d3uceY/Retna) — Reads a color in almost any notation, normalizes it to sRGB, then prints it in another color space or measures it against another color. Contrast from WCAG 2.x by default.
 
