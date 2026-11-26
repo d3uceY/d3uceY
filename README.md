@@ -15,6 +15,7 @@ I create tools that solve my own problems. If they solve yours, that's nice too.
 
 ## Command-line tools
 - [Piper](https://github.com/d3uceY/Piper) — Elevator music while you wait for running cli commands
+- [Wraith](https://github.com/d3uceY/Wraith) — lets an AI agent perform stdin operations and read stdout/stderr in another computer
 - [Ya-CLI](https://github.com/d3uceY/Ya-CLI) — Command shortcut and alias manager.
 - [Retna](https://github.com/d3uceY/Retna) — Reads a color in almost any notation, normalizes it to sRGB, then prints it in another color space or measures it against another color. Contrast from WCAG 2.x by default.
 
